@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-areas: ;
+}
+
+h1 {
+    text-shadow: 2px 2px 0 #bbbbbb;
+
+}
+
+.banner {
+    width: 500px;
+    height: 300px;
+}
+
+
+.greeting {
+    background-color: aqua;]
+}
